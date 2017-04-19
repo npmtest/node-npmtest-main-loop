@@ -1,4 +1,7 @@
-# test coverage for  [main-loop (v3.4.0)](https://github.com/Raynos/main-loop)  [![npm package](https://img.shields.io/npm/v/npmtest-main-loop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-main-loop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-main-loop.svg)](https://travis-ci.org/npmtest/node-npmtest-main-loop)
+# npmtest-main-loop
+
+#### basic test coverage for  [main-loop (v3.4.0)](https://github.com/Raynos/main-loop)  [![npm package](https://img.shields.io/npm/v/npmtest-main-loop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-main-loop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-main-loop.svg)](https://travis-ci.org/npmtest/node-npmtest-main-loop)
+
 #### A rendering loop for diffable UIs
 
 [![NPM](https://nodei.co/npm/main-loop.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/main-loop)
